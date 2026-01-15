@@ -13,6 +13,7 @@ A beginner-level bioinformatics project written in Python to analyze DNA sequenc
 - Python
 - Basic bioinformatics concepts
 - FASTA file handling
+- GoogleColab
 
 ## How to Run
 1. Clone the repository
